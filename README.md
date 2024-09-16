@@ -1,5 +1,5 @@
 # Font-narrower
-Python script for modifying font width (narrow)
+Python script for modifying font scaling (height and width)
 
 Clone this repo then install fontTools package using pip:<br>
 `pip install fonttools`
